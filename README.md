@@ -26,13 +26,21 @@ Total Shields Printed
 ### Statistics by Day
 
 Mar 22 - 2 PLA
+
 Mar 23 - 4 PETG Black
+
 Mar 24 - 4 PETG Black
+
 Mar 25 - 4 PLA Blue
+
 Mar 26 - 4 PETG Orange
+
 Mar 27 - 6 PETG Orange
+
 Mar 28 - 6 PETG Orange
+
 Mar 29 - 6 PETG Orange
+
 Mar 30 - 6 PETG Orange
 
 
