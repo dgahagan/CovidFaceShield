@@ -1,7 +1,7 @@
 ## 3d Printed Face Shields for medical use
 QR Code for this page
 
-![alt text](https://dgahagan.github.io/CovidFaceShield/img/covid.png "QR Code for this page")
+![QR Code for this page](https://dgahagan.github.io/CovidFaceShield/img/covid.png)
 
 This page contains information related the the materials and assembly of the 3d printed face shields I am currently manufacturing at my house.
 
