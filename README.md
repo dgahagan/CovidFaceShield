@@ -8,6 +8,7 @@ This page contains information related the the materials and assembly of the 3d 
 They are based off of this design by PRUSA. [Prusa Protective Face Shield - RC3](https://www.prusaprinters.org/prints/25857-prusa-protective-face-shield-rc2)
 
 Video of face shields printing.
+
 [![Video of face shields printing](https://dgahagan.github.io/CovidFaceShield/img/mq2.jpg)](https://youtu.be/U0M_ALfFkUw "Video")
 
 ### Important Notice!
@@ -21,6 +22,19 @@ Here is a guide on how to properly sterilize the Face Shields before use: [Prusa
 Total Shields Printed
 - PETG - 26
 - PLA - 8 (Non Medical Grade Material. For personal use only)
+
+### Statistics by Day
+
+Mar 22 - 2 PLA
+Mar 23 - 4 PETG Black
+Mar 24 - 4 PETG Black
+Mar 25 - 4 PLA Blue
+Mar 26 - 4 PETG Orange
+Mar 27 - 6 PETG Orange
+Mar 28 - 6 PETG Orange
+Mar 29 - 6 PETG Orange
+Mar 30 - 6 PETG Orange
+
 
 
 ### Materials Used In Manufacture
