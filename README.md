@@ -7,6 +7,8 @@ This page contains information related the the materials and assembly of the 3d 
 
 They are based off of this design by PRUSA. [Prusa Protective Face Shield - RC3](https://www.prusaprinters.org/prints/25857-prusa-protective-face-shield-rc2)
 
+Video of face shields printing.
+[![Video of face shields printing](https://dgahagan.github.io/CovidFaceShield/img/mq2.jpg)](https://youtu.be/U0M_ALfFkUw "Video")
 
 ### Important Notice!
 
