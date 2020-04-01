@@ -1,6 +1,6 @@
 ## 3d Printed Face Shields for medical use
 
-*Last update: 8:30pm EST March 31st 2020*
+*Last update: 10:47pm EST March 31st 2020*
 
 
 This page contains information related the the materials and assembly of the 3d printed face shields I am currently manufacturing at my house.
