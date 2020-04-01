@@ -19,13 +19,17 @@ Here is a guide on how to properly sterilize the Face Shields before use: [Prusa
 
 ### Statistics Totals
 
+```
+
 Total Shields Printed
 - PETG - 26
 - PLA - 8 (Non Medical Grade Material. For personal use only)
 
+```
+
 ### Statistics by Day
 
-'''
+```
 
 Mar 31 - 6 PETG Orange - Failed to increase production by printing 8 sheilds at a time with max printer speed
 
@@ -47,7 +51,7 @@ Mar 23 - 4 PETG Black
 
 Mar 22 - 2 PLA
 
-'''
+```
 
 
 
