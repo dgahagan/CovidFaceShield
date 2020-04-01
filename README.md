@@ -1,4 +1,7 @@
 ## 3d Printed Face Shields for medical use
+
+*Last update: 8:30pm EST March 31st 2020*
+
 QR Code for this page
 
 ![QR Code for this page](https://dgahagan.github.io/CovidFaceShield/img/covid.png)
@@ -16,6 +19,10 @@ Video of face shields printing.
 These sheilds are not manufactured in a sterile environment! While all possible measures have been taken to keep them clean as possible they are being built on my workbench at home. Please take the proper precautions listed below.
 
 Here is a guide on how to properly sterilize the Face Shields before use: [Prusa Face Shield disinfection](https://help.prusa3d.com/en/article/prusa-face-shield-disinfection_125457)
+
+### Live stream of face shields being printed
+
+[Click here to view the stream](http://app.thespaghettidetective.com/printers/shared/cb568a0c0103fa4b7f8961a868ecb77f9a7a/)
 
 ### Statistics Totals
 
@@ -42,6 +49,8 @@ Mar 28 - 6 PETG Orange
 Mar 29 - 6 PETG Orange
 
 Mar 30 - 6 PETG Orange
+
+Mar 31 - 6 PETG Orange - Failed to increase production by printing 8 sheilds at a time with max printer speed
 
 
 
