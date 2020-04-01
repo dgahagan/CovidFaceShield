@@ -66,8 +66,6 @@ Mar 22 - 2 PLA
 
 ### Materials Used In Manufacture
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
 - The frame is constructed of PETG plastic filament. Link [OVERTURE PETG Filament 1.75mm with 3D Build Surface 200 x 200 mm 3D Printer Consumables, 1kg Spool (2.2lbs), Dimensional Accuracy +/- 0.05 mm, Fit Most FDM Printer (Orange)](https://www.amazon.com/gp/product/B07VJYL11F/)
 - The clear face shield is made of common office laminate sheets. 2 sheets have been laminated together for stiffness.
 - The strap is made from common Velcro. Link [Monoprice 3-Pack Hook & Loop Fastening Tape 5 Yard/roll, 0.75-inch, Black-(121887), 3 Piece](https://www.amazon.com/gp/product/B06WW3LSLT/)
