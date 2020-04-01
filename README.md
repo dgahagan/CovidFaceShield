@@ -22,7 +22,7 @@ Here is a guide on how to properly sterilize the Face Shields before use: [Prusa
 ```
 
 Total Shields Printed
-- PETG - 26
+- PETG - 42
 - PLA - 8 (Non Medical Grade Material. For personal use only)
 
 ```
