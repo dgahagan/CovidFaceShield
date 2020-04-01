@@ -13,7 +13,7 @@ They are based off of this design by PRUSA. [Prusa Protective Face Shield - RC3]
 
 ### Important Notice!
 
-These sheilds are not manufactured in a sterile environment! While all possible measures have been taken to keep them clean as possible they are being built on my workbench at home. Please take the proper precautions listed below.
+These shields are not manufactured in a sterile environment! While all possible measures have been taken to keep them clean as possible they are being built on my workbench at home. Please take the proper precautions listed below.
 
 Here is a guide on how to properly sterilize the Face Shields before use: [Prusa Face Shield disinfection](https://help.prusa3d.com/en/article/prusa-face-shield-disinfection_125457)
 
@@ -31,7 +31,7 @@ Total Shields Printed
 
 ```
 
-Mar 31 - 6 PETG Orange - Failed to increase production by printing 8 sheilds at a time with max printer speed
+Mar 31 - 6 PETG Orange - Failed to increase production by printing 8 shields at a time with max printer speed
 
 Mar 30 - 6 PETG Orange
 
@@ -73,7 +73,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 - The strap is made from common Velcro. Link [Monoprice 3-Pack Hook & Loop Fastening Tape 5 Yard/roll, 0.75-inch, Black-(121887), 3 Piece](https://www.amazon.com/gp/product/B06WW3LSLT/)
 
 ### Supplies Needed
-I am still trying to find the best material to use as the clear face shield potion. I am not totally pleased with the clarity and flimsyness of the laminate material. If you have any materials that may work better please send me an email at the link below.
+I am still trying to find the best material to use as the clear face shield potion. I am not totally pleased with the clarity and flimsiness of the laminate material. If you have any materials that may work better please send me an email at the link below.
 
 QR Code for this page
 
