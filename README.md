@@ -1,6 +1,6 @@
 ## 3d Printed Face Shields for medical use
 
-*Last update: 10:47pm EST March 31st 2020*
+*Last update: 11:15pm EST April 3rd 2020*
 
 
 This page contains information related the the materials and assembly of the 3d printed face shields I am currently manufacturing at my house.
@@ -73,6 +73,8 @@ Mar 22 - 2 PLA
 
 ### Supplies Needed
 I am still trying to find the best material to use as the clear face shield potion. I am not totally pleased with the clarity and flimsiness of the laminate material. If you have any materials that may work better please send me an email at the link below.
+*Update*
+I have received 200 sheets of clear acrylic that can be used for the shields. I have also received 15 more rolls of velcro. This should allow me to produce 100+ more shields.
 
 QR Code for this page
 
