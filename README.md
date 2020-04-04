@@ -30,7 +30,12 @@ Total Shields Printed
 ### Statistics by Day
 
 ```
-Apr 3 - Failed attempt to increase production has caused my 3d printer to fail on subsequent prints. I believe this is due to filament jam. and resulting nozzle misalignment. I will endeavor to recalibrate the printer as soon as time allows. The loss of productivity by trying to gain speed has caused production to cease unacceptably. From this point forward I will only print the tried and true files and have had a 100% success rate previously. It is not worth the downtime in my opinion. Better to have 6 face shields a day than try for 16 and have 3 days downtime.
+Apr 3 - Failed attempt to increase production has caused my 3d printer to fail on subsequent prints. 
+I believe this is due to filament jam. and resulting nozzle misalignment. 
+I will endeavor to recalibrate the printer as soon as time allows. 
+The loss of productivity by trying to gain speed has caused production to cease unacceptably. 
+From this point forward I will only print the tried and true files and have had a 100% success rate previously. 
+It is not worth the downtime in my opinion. Better to have 6 face shields a day than try for 16 and have 3 days downtime.
 
 Mar 31 - 6 PETG Orange - Failed to increase production by printing 8 shields at a time with max printer speed
 
