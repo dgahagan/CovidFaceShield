@@ -1,6 +1,6 @@
 ## 3d Printed Face Shields for medical use
 
-*Last update: 11:15pm EST April 3rd 2020*
+*Last update: 6:00pm EST April 4th 2020*
 
 
 This page contains information related the the materials and assembly of the 3d printed face shields I am currently manufacturing at my house.
@@ -30,6 +30,8 @@ Total Shields Printed
 ### Statistics by Day
 
 ```
+Apr 4 - I think I have the issues resolved. Attempting to print first face shield set now. - 6pm
+
 Apr 3 - Failed attempt to increase production has caused my 3d printer to fail on subsequent prints. 
 I believe this is due to filament jam. and resulting nozzle misalignment. 
 I will endeavor to recalibrate the printer as soon as time allows. 
