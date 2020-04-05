@@ -1,6 +1,6 @@
 ## 3d Printed Face Shields for medical use
 
-*Last update: 6:00pm EST April 4th 2020*
+*Last update: 4:00pm EST April 5th 2020*
 
 
 This page contains information related the the materials and assembly of the 3d printed face shields I am currently manufacturing at my house.
@@ -22,7 +22,7 @@ Here is a guide on how to properly sterilize the Face Shields before use: [Prusa
 ```
 
 Total Shields Printed
-- PETG - 42
+- PETG - 44
 - PLA - 8 (Non Medical Grade Material. For personal use only)
 
 ```
@@ -30,6 +30,7 @@ Total Shields Printed
 ### Statistics by Day
 
 ```
+Apr 5 - First batch printed successfully. Subsequent batches have failed. Looks to be an extruding issue. Made some adjustments and printing now. 4pm
 Apr 4 - I think I have the issues resolved. Attempting to print first face shield set now. - 6pm
 
 Apr 3 - Failed attempt to increase production has caused my 3d printer to fail on subsequent prints. 
